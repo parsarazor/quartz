@@ -10,6 +10,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       GitHub: "https://github.com/parsarazor",
       "Discord Community": "https://discord.gg/cRFFHYye7t",
+      X: "https://twitter.com/parsamohamedi",
     },
   }),
 }
