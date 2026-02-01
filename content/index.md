@@ -1,7 +1,8 @@
 ---
-title: Welcome to Quartz
+title: It is like a bukaki
 ---
-My name is Parsa and this is a test for localhost shit
+
+this must be shown on the website
 
 This is a blank Quartz installation.
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
