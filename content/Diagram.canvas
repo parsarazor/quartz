@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"6260a4181b876c50","x":760,"y":165,"width":520,"height":60,"color":"2","type":"text","text":"CALCULUS III"},
+		{"id":"c4559dbf93f9de31","x":220,"y":165,"width":540,"height":60,"color":"1","type":"text","text":"CALCULUS II"},
+		{"id":"95419592b38304e2","x":-240,"y":165,"width":460,"height":60,"color":"2","type":"text","text":"CALCULUS I"},
+		{"id":"6459107feecbaf20","x":-150,"y":105,"width":410,"height":60,"color":"2","type":"text","text":"DIFFERENTIAL EQUATIONS"},
+		{"id":"8b0e672880fdb8bd","x":260,"y":105,"width":420,"height":60,"color":"2","type":"text","text":"LINEAR ALGEBRA"},
+		{"id":"31f4ea74bd9b5172","x":680,"y":105,"width":520,"height":60,"color":"1","type":"text","text":"MATHEMATICAL MODELLING"},
+		{"id":"664a79147081910a","x":-105,"y":45,"width":190,"height":60,"color":"2","type":"text","text":"REAL ANALYSIS"},
+		{"id":"24980c5ed50b4bb9","x":85,"y":45,"width":228,"height":60,"color":"2","type":"text","text":"ABSTRACT ALGEBRA"},
+		{"id":"d11444afb57304d1","x":313,"y":45,"width":245,"height":60,"color":"1","type":"text","text":"NUMERICAL METHODS"},
+		{"id":"1ae06dd86e30fc18","x":558,"y":45,"width":285,"height":60,"color":"1","type":"text","text":"PROBABILITY & STATISTICS"},
+		{"id":"fafc10e57258bce8","x":843,"y":45,"width":315,"height":60,"color":"1","type":"text","text":"Topology / Differential Geometry"},
+		{"id":"b12dad6ad119a107","x":-255,"y":380,"width":105,"height":270,"type":"text","text":"PRE\nC\nA\nL\nC\nU\nL\nU\nS"},
+		{"id":"2cac528dfa7c67b0","x":-600,"y":-95,"width":250,"height":340,"color":"3","type":"text","text":"PHASE 3: THEORY AND ABSTRACTION\n\n---\n\nPHASE 2: CORE MATHEMATICAL TOOLS\n\n---\n\nPHASE 1: FOUNDATIONS"}
+	],
+	"edges":[
+		{"id":"96445ce43dce4a97","fromNode":"b12dad6ad119a107","fromSide":"left","toNode":"95419592b38304e2","toSide":"left"}
+	]
+}
